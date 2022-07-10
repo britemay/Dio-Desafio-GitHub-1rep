@@ -1,3 +1,5 @@
+# Atalhos
+
 1. git config (fundamental para configurar sua identidade de usuário) 
 2. git init (criar um novo projeto de git)
 3. git clone (cria uma cópia exata de um repositório já existente)
